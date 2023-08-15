@@ -1,0 +1,22 @@
+.sct{
+    background-color: #1b1b1c;
+    background-color: linear;
+}
+.textservice{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.cardbg{
+    background-color: white;
+    border:solid red 2px;
+    border-radius: 5%;
+    
+}
+.titletext{
+    color:black;
+    font-weight: bolder;
+}
+#descr{
+    font-family: 'Pathway Extreme', sans-serif;
+}

@@ -1,0 +1,15 @@
+.carimg{
+    background-attachment: fixed;
+    
+}
+.body{
+    
+    z-index: -1;
+}
+
+.descr{
+    
+    position: relative;
+    top: -38vh;
+    font-family: 'Pathway Extreme', sans-serif;
+}
